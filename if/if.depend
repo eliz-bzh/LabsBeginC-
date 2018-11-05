@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541449750 source:c:\users\Администратор\if\main.cpp
+	<iostream>
+	"if.h"
+
+1541449866 c:\users\Администратор\if\if.h
+
